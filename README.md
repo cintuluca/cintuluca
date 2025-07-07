@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Luca!
 
-<!--
-**cintuluca/cintuluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Physics MSc graduate** from the University of Milan (UniMi)  
+💼 **Technology Consulting Analyst** at Accenture  
+🌍 Passionate about technology, problem-solving, and creating impactful solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🔬 With a strong background in physics and scientific thinking, I enjoy tackling complex challenges and transforming them into elegant, practical solutions.
+- 💡 Currently working as a Technology Consulting Analyst, helping clients leverage technology to drive business transformation.
+- 🚀 Always curious to learn new skills and explore the intersection of science, technology, and innovation.
+
+---
+
+## 🛠️ Languages & Tools
+
+### Main
+- 🐍 Python
+- 🐚 Shell scripting
+
+### Secondary
+- 💻 JavaScript
+- 🌐 HTML
+
+---
+
+## 📈 Interests
+
+- Data science & analytics
+- Process automation
+- Scientific computing
+- Open source contributions
+
+---
+
+## 🌟 Let's connect!
+
+- [LinkedIn](https://www.linkedin.com/in/luca-cintura/)
+- [GitHub](https://github.com/cintuluca)
+
+---
+
+> “Curiosity is the spark behind every great idea.”
